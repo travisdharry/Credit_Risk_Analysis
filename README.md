@@ -11,10 +11,10 @@ Supervised Machine Learning project for UT Austin Data Analysis &amp; Visualizat
 - Precision:  0.01
 - Recall: 0.66
 <p align ="center">
-<img src="images/screenshot1.png" alt="Accuracy" width="200"/><br>
+<img src="images/screenshot1.png" alt="Accuracy" width="400"/><br>
 </p>
 <p align ="center">
-<img src="images/screenshot2.png" alt="Precision"/><br>
+<img src="images/screenshot2.png" alt="Precision" width="600"/><br>
 </p>
 
 ### SMOTE Oversampling
