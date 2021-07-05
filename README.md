@@ -14,7 +14,7 @@ Supervised Machine Learning project for UT Austin Data Analysis &amp; Visualizat
 <img src="images/screenshot1.png" alt="Accuracy" width="400"/><br>
 </p>
 <p align ="center">
-<img src="images/screenshot2.png" alt="Precision" width="600"/><br>
+<img src="images/screenshot2.png" alt="Precision" width="700"/><br>
 </p>
 
 ### SMOTE Oversampling
@@ -22,10 +22,10 @@ Supervised Machine Learning project for UT Austin Data Analysis &amp; Visualizat
 - Precision:  0.01
 - Recall: 0.61
 <p align ="center">
-<img src="images/screenshot3.png" alt="Accuracy"/><br>
+<img src="images/screenshot3.png" alt="Accuracy" width="400"/><br>
 </p>
 <p align ="center">
-<img src="images/screenshot4.png" alt="Precision"/><br>
+<img src="images/screenshot4.png" alt="Precision" width="700"/><br>
 </p>
 
 ### Cluster Centroid Undersampling
@@ -33,10 +33,10 @@ Supervised Machine Learning project for UT Austin Data Analysis &amp; Visualizat
 - Precision:  0.01
 - Recall: 0.69
 <p align ="center">
-<img src="images/screenshot5.png" alt="Accuracy"/><br>
+<img src="images/screenshot5.png" alt="Accuracy" width="400"/><br>
 </p>
 <p align ="center">
-<img src="images/screenshot6.png" alt="Precision"/><br>
+<img src="images/screenshot6.png" alt="Precision" width="700"/><br>
 </p>
 
 ### SMOTEENN Combination Resampling
@@ -44,10 +44,10 @@ Supervised Machine Learning project for UT Austin Data Analysis &amp; Visualizat
 - Precision:  0.01
 - Recall: 0.66
 <p align ="center">
-<img src="images/screenshot7.png" alt="Accuracy"/><br>
+<img src="images/screenshot7.png" alt="Accuracy" width="400"/><br>
 </p>
 <p align ="center">
-<img src="images/screenshot8.png" alt="Precision"/><br>
+<img src="images/screenshot8.png" alt="Precision" width="700"/><br>
 </p>
 
 ### Balanced Random Forest Classifier
@@ -55,10 +55,10 @@ Supervised Machine Learning project for UT Austin Data Analysis &amp; Visualizat
 - Precision:  0.03
 - Recall: 0.62
 <p align ="center">
-<img src="images/screenshot9.png" alt="Accuracy"/><br>
+<img src="images/screenshot9.png" alt="Accuracy" width="400"/><br>
 </p>
 <p align ="center">
-<img src="images/screenshot10.png" alt="Precision"/><br>
+<img src="images/screenshot10.png" alt="Precision" width="700"/><br>
 </p>
 
 ### Easy Ensemble AdaBoost Classifier
@@ -66,10 +66,10 @@ Supervised Machine Learning project for UT Austin Data Analysis &amp; Visualizat
 - Precision: 0.09
 - Recall: 0.92
 <p align ="center">
-<img src="images/screenshot11.png" alt="Accuracy"/><br>
+<img src="images/screenshot11.png" alt="Accuracy" width="400"/><br>
 </p>
 <p align ="center">
-<img src="images/screenshot12.png" alt="Precision"/><br>
+<img src="images/screenshot12.png" alt="Precision" width="700"/><br>
 </p>
 
 ## Summary
